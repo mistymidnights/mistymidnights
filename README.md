@@ -1,6 +1,6 @@
 <h1 align= "center"><b>Welcome! | ようこそ！　(*・ω・)ﾉ</b></h1>
 <div>
-    <img src="https://giphy.com/embed/Uz4cDaGXPxeuY" width="480" height="225" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studio-ghibli-spirited-away-Uz4cDaGXPxeuY">
+    <img src="https://media4.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif?cid=790b7611feb672032e89ffa986e09a372ad1b6e352e6d293&rid=giphy.gif&ct=g">
 </div>
 <div>
     <p align= "center">I'm Cristina but usually averyone calls me Misty<br>
