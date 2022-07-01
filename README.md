@@ -8,7 +8,7 @@
     Gaffer, camera & editor ​🎞️<br>
     Gaming 👾​<br>
     Cars | JDM 🔰​<br>
-    Spanish & 日本語 💬
+    Spanish, English & 日本語 💬
     ​</p>
 </div>
 <div align="center">
