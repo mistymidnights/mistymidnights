@@ -1,6 +1,6 @@
 <h1 align= "center"><b>Welcome! | ようこそ！　(*・ω・)ﾉ</b></h1>
 <div>
-    <img align= "center" src="https://media4.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif?cid=790b7611feb672032e89ffa986e09a372ad1b6e352e6d293&rid=giphy.gif&ct=g">
+    <img class="center" src="https://media4.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif?cid=790b7611feb672032e89ffa986e09a372ad1b6e352e6d293&rid=giphy.gif&ct=g">
 </div>
 <div>
     <p align= "center">I'm Cristina but usually averyone calls me Misty<br>
@@ -12,7 +12,7 @@
     ​</p>
 </div>
     <h2 align= "center">Contact with me:</h2>
-    <a align= "center" href="https://instagram.com/mistymidnightss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lethamburn" height="30" width="40" /></a>
+    <a class="center" href="https://instagram.com/mistymidnightss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lethamburn" height="30" width="40" /></a>
 </p>
 <div>
     <p>
