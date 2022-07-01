@@ -12,10 +12,10 @@
     ​</p>
 </div>
     <h2 align= "center">Contact with me:</h2>
-    <a class="center" href="https://instagram.com/mistymidnightss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lethamburn" height="30" width="40" /></a>
+    <a style="align:center"href="https://instagram.com/mistymidnightss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lethamburn" height="30" width="40" /></a>
 </p>
 <div>
-    <p>
+    <p align="center">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
      <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
      <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
