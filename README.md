@@ -3,7 +3,7 @@
     <img src="https://media4.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif?cid=790b7611feb672032e89ffa986e09a372ad1b6e352e6d293&rid=giphy.gif&ct=g">
 </div>
 <div>
-    <p align= "center">I'm Cristina but usually averyone calls me Misty<br>
+    <p align= "center">I'm Cristina but usually everyone calls me Misty<br>
     Learning how to code | Full-stack Developer 💻<br>
     Gaffer, camera & editor ​🎞️<br>
     Gaming 👾​<br>
