@@ -23,7 +23,7 @@
 <div>
 <h1 align= "left"> 👤 | S o c i a l</h1>
     <a href="https://www.linkedin.com/in/cristina-l-165a9218a/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-    <a href="https://christine-lopez.vercel.app" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/701164137081733201/1098148665790562314/www.png" alt="linkedin" height="30" /></a>
+    <a href="https://christine-lopez.vercel.app" target="blank"><img align="center" src="[https://cdn.discordapp.com/attachments/701164137081733201/1098148665790562314/www.png](https://img.icons8.com/plasticine/256/domain.png)" alt="linkedin" height="30" /></a>
 </div>
 
 <div>
