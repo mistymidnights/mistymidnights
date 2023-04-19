@@ -1,36 +1,49 @@
-<h1 align= "center"><b>Welcome! | ようこそ！　(*・ω・)ﾉ</b></h1>
+<h1 align= "center"><b> - W E L C O M E　- (*・ω・)ﾉ</b></h1>
 <div align="center">
-    <img src="https://media4.giphy.com/media/Uz4cDaGXPxeuY/giphy.gif?cid=790b7611feb672032e89ffa986e09a372ad1b6e352e6d293&rid=giphy.gif&ct=g">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RkNzgxMDc5MDljNjY2YzY1MTU5MGZlNTE5NDBjNzU5ZGY5MzMyZCZjdD1n/KxbHmvL3MGcctzlfdX/giphy.gif">
 </div>
+
 <div>
-    <p align= "center">I'm Cristina but usually everyone calls me Misty<br>
-    Learning how to code | Full-stack Developer 💻<br>
-    Gaffer, camera & editor ​🎞️<br>
-    Gaming 👾​<br>
-    Cars | JDM 🔰​<br>
+    <h1 align= "left"> 📍 | A b o u t     M e</h1>
+</div>
+
+<div>
+    <p align= "left">I'm Cristina but usually everyone calls me Misty<br>
+    | Full-stack Developer 💻<br>
+    | Gaffer, camera & editor ​🎞️<br>
+    | Gaming 👾​<br>
+    | Cars , JDM and motorbikes 🔰🚗​<br>
+    | Retrowave, 80s, 90s ⚡📼​<br>
     Spanish, English & 日本語 💬
     ​</p>
 </div>
-<div align="center">
-    <h2>Contact with me:</h2>
-    <a href="https://instagram.com/mistymidnightss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lethamburn" height="30" width="40" /></a>
+    
+<div align="left">
+<h1 align= "left"> 👤 | S o c i a l</h1>
     <a href="https://www.linkedin.com/in/cristina-l-165a9218a/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+    <a href="https://christine-lopez.vercel.app" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/701164137081733201/1098148665790562314/www.png" alt="linkedin" height="30 /></a>
 </div>
-</p>
+
 <div>
-    <p align="center">
-    <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" />
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-    <img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
-    <img alt="codeacademy" src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A" />
-    <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-     <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-     <img alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-     <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-     <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-     <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-     <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-     </p>
+    <h1 align= "left"> 🚀 | C o d i n g</h1>
+    <img src="https://img.icons8.com/color/256/html-5.png" height="30px" width="30px"/>
+    <img src="https://img.icons8.com/stickers/256/css3.png" height="30px" width="30px"/>
+    <img src="https://img.icons8.com/color/256/javascript--v1.png" height="30px" width="30px"/>
+    <img src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" height="30px" width="30px"/>
+    <img src="https://img.icons8.com/color/256/react-native.png" height="30px" width="30px"/>
+    <img src="https://img.icons8.com/fluency/256/node-js.png" height="30px" width="30px"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" height="30px" width="30px"/>
+    <img src="https://img.icons8.com/color/256/git.png" height="30px" width="30px"/>
+    <img src="https://img.icons8.com/color/256/sass.png" height="30px" width="30px"/>
+    <img src="https://img.icons8.com/office/256/java-eclipse.png" height="30px" width="30px"/>
+</div>
+
+<div>
+<h1 align= "left"> 🎥 | A u d i o v i s u a l</h1>
+  <img src="https://img.icons8.com/color/256/adobe-photoshop.png" height="30px" width="30px"/>
+    <img src="https://img.icons8.com/color/256/adobe-lightroom.png" height="30px" width="30px"/>
+    <img src="https://img.icons8.com/color/256/adobe-premiere-pro.png" height="30px" width="30px"/>
+    <img src="https://img.icons8.com/color/256/adobe-media-encoder.png" height="30px" width="30px"/>
+    <img src="https://cdn.icon-icons.com/icons2/313/PNG/512/AvidMedia_34268.png" height="30px" width="30px"/>
+    <img src="https://img.icons8.com/color/256/davinci-resolve.png" height="30px" width="30px"/>
 </div>
