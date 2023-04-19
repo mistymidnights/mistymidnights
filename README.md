@@ -9,11 +9,13 @@
 
 <div>
     <p align= "left">I'm Cristina but usually everyone calls me Misty<br>
+        <br>
     | Full-stack Developer 💻<br>
     | Gaffer, camera & editor ​🎞️<br>
     | Gaming 👾​<br>
     | Cars , JDM and motorbikes 🔰🚗​<br>
     | Retrowave, 80s, 90s ⚡📼​<br>
+        <br>
     Spanish, English & 日本語 💬
     ​</p>
 </div>
