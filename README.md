@@ -89,9 +89,11 @@ Mi vida no es solo código; también me apasiona:
 
 ¡Me encantaría charlar! Hablemos de tecnología, cultura *automotive*, *gaming* o cualquier tema interesante.
 
-<p align="left">
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristinadeveloper)
-</p>
+## 🌐 Redes y contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristinadeveloper)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mistydeveloping@gmail.com)
+
 
 <br>
 
