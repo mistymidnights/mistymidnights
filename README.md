@@ -19,48 +19,61 @@ Siempre estoy abierta a **conectar y colaborar**. ¡Echa un vistazo a mis reposi
 Aquí están algunas de las principales herramientas y tecnologías que utilizo:
 
 ### 🔧 Lenguajes y Core
-| Tecnología | Badge |
-| :--- | :--- |
-| **Java** | `![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)` |
-| **JavaScript** | `![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)` |
-| **TypeScript** | `![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)` |
-| **Scala** | `![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)` |
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+<br>
 
 ### 🖥️ Frontend
-| Tecnología | Badge |
-| :--- | :--- |
-| **React** | `![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)` |
-| **Next.js** | `![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)` |
-| **Tailwind CSS** | `![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)` |
-| **NextUI** | `![NextUI](https://img.shields.io/badge/NextUI-FFFFFF?style=for-the-badge&logo=NextUI&logoColor=000000)` |
-| **PrimeReact** | `![PrimeReact](https://img.shields.io/badge/PrimeReact-1976D2?style=for-the-badge&logo=react&logoColor=white)` |
-| **Styled Components** | `![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)` |
-| **Zustand** | `![Zustand](https://img.shields.io/badge/Zustand-4E4D4D?style=for-the-badge&logo=Zustand&logoColor=white)` |
-| *Otras* | `![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)` `![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)` `![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)` `![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)` |
 
-### 🛠️ Backend / BBDD / Infra
-| Tecnología | Badge |
-| :--- | :--- |
-| **Node.js** | `![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)` |
-| **MongoDB** | `![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)` |
-| **MySQL** | `![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)` |
-| **AWS S3** | `![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)` |
-| **Keycloak** | `![Keycloak](https://img.shields.io/badge/Keycloak-333333?style=for-the-badge&logo=keycloak&logoColor=white)` |
-| **SFTP** | `![SFTP](https://img.shields.io/badge/SFTP-1976D2?style=for-the-badge&logo=sftp&logoColor=white)` |
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NextUI](https://img.shields.io/badge/NextUI-FFFFFF?style=for-the-badge&logo=NextUI&logoColor=000000)
+![PrimeReact](https://img.shields.io/badge/PrimeReact-1976D2?style=for-the-badge&logo=react&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-4E4D4D?style=for-the-badge&logo=Zustand&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+<br>
 
-### ⚙️ Herramientas y Metodología
-| Área | Tecnologías |
-| :--- | :--- |
-| **Control de Versiones** | `![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)` `![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)` |
-| **Gestión/Metodología** | `![Agile](https://img.shields.io/badge/Agile-092E20?style=for-the-badge&logo=Agile&logoColor=white)` `![Scrum](https://img.shields.io/badge/Scrum-2C3C4C?style=for-the-badge&logo=Scrum&logoColor=white)` `![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)` `![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-100000?style=for-the-badge&logo=github&logoColor=white)` |
-| **Diseño** | `![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)` |
-| **Utilidades** | `![ExcelJS](https://img.shields.io/badge/ExcelJS-0072C6?style=for-the-badge&logo=excel&logoColor=white)` `![Quill](https://img.shields.io/badge/Quill-00B2B2?style=for-the-badge&logo=Quill&logoColor=white)` `![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)` |
+### 🛠️ Backend / BBDD / Infraestructura
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-333333?style=for-the-badge&logo=keycloak&logoColor=white)
+![SFTP](https://img.shields.io/badge/SFTP-1976D2?style=for-the-badge&logo=sftp&logoColor=white)
+<br>
+
+### ⚙️ Herramientas, CI/CD y Gestión
+
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-092E20?style=for-the-badge&logo=Agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-2C3C4C?style=for-the-badge&logo=Scrum&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![ExcelJS](https://img.shields.io/badge/ExcelJS-0072C6?style=for-the-badge&logo=excel&logoColor=white)
+![Quill](https://img.shields.io/badge/Quill-00B2B2?style=for-the-badge&logo=Quill&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 
 <details>
 <summary><b>Mostrar mi Stack Completo de Diseño y Multimedia</b></summary>
 <br>
 
-`![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)` `![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)` `![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)` `![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)` `![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)` `![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)`
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 </details>
 
 ---
