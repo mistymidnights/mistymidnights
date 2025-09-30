@@ -1,16 +1,14 @@
 <h1 align="left"><b>👋 ¡Hola! Soy Cristina - (*・ω・)ﾉ</b></h1>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RkNzgxMDc5MDljNjY2YzY1MTU5MGZlNTE5NDBjNzU5ZGY5MzMyZCZjdD1n/KxbHmvL3MGcctzlfdX/giphy.gif" alt="GIF animado de bienvenida" width="250" height="auto">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RkNzgxMDc5MDljNjY2YzY1MTU5MGZlNTE5NDBjNzU5ZGY5MzMyZCZjdD1n/KxbHmvL3MGcctzlfdX/giphy.gif" alt="GIF animado de bienvenida" width="500" height="auto">
 </div>
 
 ---
 
 ## 💻 Sobre Mí
 
-Soy una **desarrolladora apasionada** que actualmente forma parte del equipo de **Telefónica**. Mi enfoque está en construir soluciones robustas y eficientes, siempre explorando nuevas tecnologías para mejorar mis proyectos.
-
-Siempre estoy abierta a **conectar y colaborar**. ¡Echa un vistazo a mis repositorios o hablemos de tecnología!
+Soy desarrollador frontend con más de **2 años de experiencia trabajando con React y Next.js**, apasionado por crear interfaces dinámicas, modulares y fáciles de usar. Empecé mi camino en Telefónica desarrollando páginas internas y landings, y más tarde participé en el desarrollo del frontend de una **plataforma educativa interactiva** (ECAM VFX), donde trabajé con un stack moderno (**Next.js 14, TailwindCSS, Zustand, AWS S3, Node.js**) y enfoqué mis esfuerzos en la escalabilidad, la gestión de roles y la automatización de procesos.
 
 ---
 
