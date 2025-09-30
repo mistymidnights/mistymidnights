@@ -90,14 +90,8 @@ Mi vida no es solo código; también me apasiona:
 ¡Me encantaría charlar! Hablemos de tecnología, cultura *automotive*, *gaming* o cualquier tema interesante.
 
 <p align="left">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristinadeveloper)
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristinadeveloper)
 </p>
-
-## 🎧 Música
-
-Lo que estoy escuchando ahora mismo:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nagisekai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=9633cc&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
