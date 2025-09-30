@@ -1,26 +1,93 @@
-<h1 align= "left"><b> - W E L C O M E　- (*・ω・)ﾉ</b></h1>
-<br>
-<div align="left">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RkNzgxMDc5MDljNjY2YzY1MTU5MGZlNTE5NDBjNzU5ZGY5MzMyZCZjdD1n/KxbHmvL3MGcctzlfdX/giphy.gif">
+<h1 align="left"><b>👋 ¡Hola! Soy Cristina - (*・ω・)ﾉ</b></h1>
+
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2RkNzgxMDc5MDljNjY2YzY1MTU5MGZlNTE5NDBjNzU5ZGY5MzMyZCZjdD1n/KxbHmvL3MGcctzlfdX/giphy.gif" alt="GIF animado de bienvenida" width="250" height="auto">
 </div>
+
+---
+
+## 💻 Sobre Mí
+
+Soy una **desarrolladora apasionada** que actualmente forma parte del equipo de **Telefónica**. Mi enfoque está en construir soluciones robustas y eficientes, siempre explorando nuevas tecnologías para mejorar mis proyectos.
+
+Siempre estoy abierta a **conectar y colaborar**. ¡Echa un vistazo a mis repositorios o hablemos de tecnología!
+
+---
+
+## 🛠️ Stack Tecnológico
+
+Aquí están algunas de las principales herramientas y tecnologías que utilizo:
+
+### 🔧 Lenguajes y Core
+| Tecnología | Badge |
+| :--- | :--- |
+| **Java** | `![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)` |
+| **JavaScript** | `![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)` |
+| **TypeScript** | `![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)` |
+| **Scala** | `![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)` |
+
+### 🖥️ Frontend
+| Tecnología | Badge |
+| :--- | :--- |
+| **React** | `![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)` |
+| **Next.js** | `![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)` |
+| **Tailwind CSS** | `![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)` |
+| **NextUI** | `![NextUI](https://img.shields.io/badge/NextUI-FFFFFF?style=for-the-badge&logo=NextUI&logoColor=000000)` |
+| **PrimeReact** | `![PrimeReact](https://img.shields.io/badge/PrimeReact-1976D2?style=for-the-badge&logo=react&logoColor=white)` |
+| **Styled Components** | `![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)` |
+| **Zustand** | `![Zustand](https://img.shields.io/badge/Zustand-4E4D4D?style=for-the-badge&logo=Zustand&logoColor=white)` |
+| *Otras* | `![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)` `![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)` `![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)` `![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)` |
+
+### 🛠️ Backend / BBDD / Infra
+| Tecnología | Badge |
+| :--- | :--- |
+| **Node.js** | `![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)` |
+| **MongoDB** | `![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)` |
+| **MySQL** | `![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)` |
+| **AWS S3** | `![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white)` |
+| **Keycloak** | `![Keycloak](https://img.shields.io/badge/Keycloak-333333?style=for-the-badge&logo=keycloak&logoColor=white)` |
+| **SFTP** | `![SFTP](https://img.shields.io/badge/SFTP-1976D2?style=for-the-badge&logo=sftp&logoColor=white)` |
+
+### ⚙️ Herramientas y Metodología
+| Área | Tecnologías |
+| :--- | :--- |
+| **Control de Versiones** | `![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)` `![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)` |
+| **Gestión/Metodología** | `![Agile](https://img.shields.io/badge/Agile-092E20?style=for-the-badge&logo=Agile&logoColor=white)` `![Scrum](https://img.shields.io/badge/Scrum-2C3C4C?style=for-the-badge&logo=Scrum&logoColor=white)` `![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)` `![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-100000?style=for-the-badge&logo=github&logoColor=white)` |
+| **Diseño** | `![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)` |
+| **Utilidades** | `![ExcelJS](https://img.shields.io/badge/ExcelJS-0072C6?style=for-the-badge&logo=excel&logoColor=white)` `![Quill](https://img.shields.io/badge/Quill-00B2B2?style=for-the-badge&logo=Quill&logoColor=white)` `![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)` |
+
+<details>
+<summary><b>Mostrar mi Stack Completo de Diseño y Multimedia</b></summary>
 <br>
-<h3 align= "left"># 🙋‍♀️​💻​ About Me:</h3>
-Hello there! 👋 I'm Cristina, a passionate developer currently working at Telefónica.<br><br>
-<h3 align= "left"># 💫 Personal Interests:</h3>
-I love Cars, JDM and Motorbikes 🏎️<br>I have a genuine passion for I Cars and the unique world of Japanese Domestic Market vehicles.<br>On two wheels, I find the perfect blend of freedom and adrenaline. Exploring the roads on a motorbike is not just a hobby for me – it's a way of life. From cruising down scenic routes to the thrill of winding mountain roads.<br><br>
-<h3 align= "left"># 🕹️​🚗​ Hobbies Beyond Coding:</h3>
-Gaming Enthusiast 🎮<br>When it's time to unwind, you'll often find me immersed in the world of video games. Feel free to connect with me for a friendly match or to discuss the latest in the gaming world!<br><br>
-<h3 align= "left"># 🔗 Connect with Me:</h3>
-Let's connect and share our experiences in the world of technology, automotive culture, gaming, or anything else that piques your interest. Feel free to reach out to me via [your preferred social media or contact information].<br><br>
-<b>Thanks for stopping by, and happy coding! 🚀✨</b>
 
-<h2 align= "left"><b> ## /🌐 S o c i a l s /</b></h2>
+`![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)` `![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)` `![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)` `![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)` `![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)` `![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)`
+</details>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristinadeveloper) 
+---
 
-# 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+## 🏎️ Intereses Fuera del Código
 
-<h2 align= "left"><b> ## /🎧​ M u s i c /</b></h2>
+Mi vida no es solo código; también me apasiona:
+
+* **Coches, JDM y Motos**: Tengo una auténtica pasión por los **coches** y la cultura **JDM (Japanese Domestic Market)**. Sobre dos ruedas, encuentro la mezcla perfecta de **libertad y adrenalina**. Explorar carreteras panorámicas en moto es mi vía de escape.
+* **Gaming** 🎮: Soy una entusiasta de los **videojuegos**. Cuando desconecto del teclado, es muy probable que esté inmersa en algún título. ¡Siéntete libre de conectar para un amistoso o para discutir novedades *gaming*!
+
+---
+
+## 🔗 Conecta Conmigo
+
+¡Me encantaría charlar! Hablemos de tecnología, cultura *automotive*, *gaming* o cualquier tema interesante.
+
+<p align="left">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristinadeveloper)
+</p>
+
+## 🎧 Música
+
+Lo que estoy escuchando ahora mismo:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nagisekai&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=9633cc&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<br>
+
+**¡Gracias por visitar! Happy coding! 🚀✨**
